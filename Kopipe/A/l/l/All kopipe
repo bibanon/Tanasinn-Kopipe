@@ -1,0 +1,9 @@
+__NOEDITSECTION__
+All the [[Kopipe]] on tanasinn.info, in nicely CTRL-F-able format.
+
+<div style="float:left; padding-right:10px; padding-bottom:10px; background: white; width:250px;">__TOC__</div>
+{{#dpl:
+|category=Kopipe categories
+|format=,<h1>[[%PAGE%|%TITLE%]] </h1>,,
+|include = *
+}}
